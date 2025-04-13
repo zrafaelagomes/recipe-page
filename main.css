@@ -15,6 +15,10 @@ h1 {
     font-weight: 300;
 }
 
+p {
+    font-family: "Outfit", sans-serif;
+}
+
 .card {
     width: 640px;
     border-radius: 16px;
